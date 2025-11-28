@@ -13,6 +13,3 @@ I like the most about git the concept of working of multiple poeple on same proj
 ##  Favorite Python Assignment
 My favourite question from the lab was **Question 10**, which showed how to display running processes sorted by memory usage. 
 
-# Aa
-## Aa
-Aa
