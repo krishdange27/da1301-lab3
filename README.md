@@ -1,10 +1,10 @@
 # da1301-lab3
 
-# introduction
+## introduction
 krish dande 
 da24b011
 
-# hobbies
+## hobbies ##
 I like coding , reading books and football as sport.
 
 # What do I like about Git ?
